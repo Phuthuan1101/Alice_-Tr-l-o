@@ -1,0 +1,15 @@
+gTTS
+playsound
+PyAudio
+selenium
+SpeechRecognition
+urllib3
+webdriver-manager
+wikipedia
+youtube-search
+numpy
+googletrans
+requests
+bs4
+goslate
+pywikihow
